@@ -1,0 +1,1 @@
+this is a simple "Hello Git" program in C . 
